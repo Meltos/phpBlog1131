@@ -1,0 +1,19 @@
+{
+    "name": "user/1131",
+    "require": {
+        "twig/twig": "^3.2",
+        "noahbuscher/macaw": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/",
+            "Core\\": "app/core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meltos",
+            "email": "meltossovikov753@gmail.com"
+        }
+    ]
+}
